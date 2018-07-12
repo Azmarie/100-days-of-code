@@ -3,9 +3,14 @@
 ### Day 0: July 11, 2018
 
 **Today's Progress**: 
+[Rest Blog Backend](https://github.com/jnwu/rest-blog-backend)
+* Added blog data model
+* Tested post/get/delete with Postman
+* Installed Balsamiq MockUp
 
-**Thoughts:** 
+**Thoughts:** Meow
 
-**Link to work:** [App](http://www.example.com)
-
-**Link to resources:** [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Level Up:** 
+* Update blog field types
+* Create Mockups
+* Add a new blog page
