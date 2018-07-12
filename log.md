@@ -9,4 +9,3 @@
 **Link to work:** [App](http://www.example.com)
 
 **Link to resources:** [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
